@@ -72,7 +72,7 @@ python main.py
 - Wiro API v1
 
 ## 📁 Folder Structure
-
+```
 project-root/
 ├── requirements.txt
 ├── .env.example
@@ -81,6 +81,7 @@ project-root/
 ├── wiro_client.py
 └── examples/
  └── basic.py
+```
 
 ## 📦 Installation
 
