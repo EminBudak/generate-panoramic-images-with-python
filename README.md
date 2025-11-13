@@ -38,17 +38,18 @@
 ```bash
 # Copy the environment file and fill in your credentials
  cp .env.example .env
-
+```
 Edit your `.env` file with your Wiro credentials:
 
 ```env
 WIRO_KEY=XYZXYZXYZXYZXYZXYZXYZXYZ
 WIRO_SECRET=QWERTYQWERTYQWERTYQWERTY
-
+```
 Then run the project:
 
 ```bash
 python main.py
+```
 
 ## 📚 Resources
 
@@ -87,6 +88,7 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 💡 Inspire Examples
 
@@ -146,6 +148,7 @@ print("Parameters:", params)
 
 result = client.execute(params)
 print("✅ Result:", result)
+```
 
 ## 🎬 Sample Output Gallery
 
